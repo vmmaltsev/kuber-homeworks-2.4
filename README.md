@@ -30,6 +30,10 @@
 4. Манифесты в файлах
 
 
+https://github.com/vmmaltsev/kuber-homeworks-2.4/blob/main/pod-viewer.yaml
+
+https://github.com/vmmaltsev/kuber-homeworks-2.4/blob/main/pod-viewer-binding.yaml
+
 
 
 
